@@ -10,4 +10,4 @@
 - 本人的联系方式是（微信号）：qiuxiaofeng_
 - ![WeChate二维码](https://gitee.com/EdisonQXF/entertainment-and-design-ted/raw/master/Images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191218232412.jpg)
 - 更多参考链接：
-1. [商城代码尝试](http://e.nfu.edu.cn/pluginfile.php/10059/assignsubmission_file/submission_files/8276/%E4%B8%98%E5%B0%8F%E5%B3%B0-Python%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A-181013040.html?forcedownload=1)
+1. [商城代码尝试](https://edisonqxf.gitee.io/entertainment-and-design-ted/python_smart.md)
